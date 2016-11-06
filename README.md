@@ -4,7 +4,7 @@ A Study of Data Pre-processing Techniques for Imbalanced Bioinformatics Data Cla
 
     src folder contains all source code
     
-    src/data folder contains all data
+    data folder contains all data used in this study, these data are also available on the website as advised in our paper.
     
 # Overview of source
 
