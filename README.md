@@ -19,4 +19,4 @@ Input_example.m handles the following
 
     If one wants to apply these techniques to other imbalanced datasets, plese Format the data for the re-balanced process.
     
-If you have any query, please let me know via: shigang@deakin.edu.au
+If you have any query, please let me know
