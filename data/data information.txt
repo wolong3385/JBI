@@ -1,0 +1,5 @@
+these data also can be downloaded from:
+1) http://datam.i2r.a-star.edu.sg/datasets/krbd/
+2) https://github.com/dcyoung/MultinomialRegression/tree/master/src/data
+
+Please cite their papers if possible!
